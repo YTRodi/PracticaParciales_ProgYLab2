@@ -1,0 +1,6 @@
+C:\Users\YAGO\Desktop\Parcial Comiqueria\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csprojAssemblyReference.cache
+C:\Users\YAGO\Desktop\Parcial Comiqueria\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csproj.CoreCompileInputs.cache
+C:\Users\YAGO\Desktop\Parcial Comiqueria\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.dll
+C:\Users\YAGO\Desktop\Parcial Comiqueria\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.pdb
+C:\Users\YAGO\Desktop\Parcial Comiqueria\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.dll
+C:\Users\YAGO\Desktop\Parcial Comiqueria\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.pdb
