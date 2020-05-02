@@ -65,11 +65,6 @@ namespace FormCantina
             
             foreach (FormCantina item in this.MdiChildren)
             {
-                //sb.AppendLine("Capacidad de botellas: " + cantidadEspacios.CantidadEspacios);
-                ////SIEMPRE ME MUESTRA LA ULTIMA CAPACIDAD DE BOTELLAS
-                ////ME LAS PISA, TENDRIA QUE USAR UN FOR...
-                //sb.AppendLine("");
-
                 MessageBox.Show(item.GetInforme,
                     "DATOS DE LAS BEBIDAS",
                     MessageBoxButtons.OK,
