@@ -1,0 +1,17 @@
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Rodi.Yago.2C (CANTINA)\FormCantina\bin\Debug\FormCantina.exe.config
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Rodi.Yago.2C (CANTINA)\FormCantina\bin\Debug\FormCantina.exe
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Rodi.Yago.2C (CANTINA)\FormCantina\bin\Debug\FormCantina.pdb
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Rodi.Yago.2C (CANTINA)\FormCantina\bin\Debug\ControlesUsuario.dll
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Rodi.Yago.2C (CANTINA)\FormCantina\bin\Debug\Entidades.dll
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Rodi.Yago.2C (CANTINA)\FormCantina\bin\Debug\ControlesUsuario.pdb
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Rodi.Yago.2C (CANTINA)\FormCantina\bin\Debug\Entidades.pdb
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Rodi.Yago.2C (CANTINA)\FormCantina\obj\Debug\FormCantina.csprojAssemblyReference.cache
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Rodi.Yago.2C (CANTINA)\FormCantina\obj\Debug\FormCantina.FormCantina.resources
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Rodi.Yago.2C (CANTINA)\FormCantina\obj\Debug\FormCantina.FrmBar.resources
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Rodi.Yago.2C (CANTINA)\FormCantina\obj\Debug\FormCantina.FrmCantidadEspaciosCantina.resources
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Rodi.Yago.2C (CANTINA)\FormCantina\obj\Debug\FormCantina.Properties.Resources.resources
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Rodi.Yago.2C (CANTINA)\FormCantina\obj\Debug\FormCantina.csproj.GenerateResource.cache
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Rodi.Yago.2C (CANTINA)\FormCantina\obj\Debug\FormCantina.csproj.CoreCompileInputs.cache
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Rodi.Yago.2C (CANTINA)\FormCantina\obj\Debug\FormCantina.csproj.CopyComplete
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Rodi.Yago.2C (CANTINA)\FormCantina\obj\Debug\FormCantina.exe
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Rodi.Yago.2C (CANTINA)\FormCantina\obj\Debug\FormCantina.pdb

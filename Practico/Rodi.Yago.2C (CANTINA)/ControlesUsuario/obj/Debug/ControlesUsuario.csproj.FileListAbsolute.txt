@@ -1,0 +1,12 @@
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Rodi.Yago.2C (CANTINA)\ControlesUsuario\bin\Debug\ControlesUsuario.dll
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Rodi.Yago.2C (CANTINA)\ControlesUsuario\bin\Debug\ControlesUsuario.pdb
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Rodi.Yago.2C (CANTINA)\ControlesUsuario\bin\Debug\Entidades.dll
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Rodi.Yago.2C (CANTINA)\ControlesUsuario\bin\Debug\Entidades.pdb
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Rodi.Yago.2C (CANTINA)\ControlesUsuario\obj\Debug\ControlesUsuario.csprojAssemblyReference.cache
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Rodi.Yago.2C (CANTINA)\ControlesUsuario\obj\Debug\ControlCantina.Barra.resources
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Rodi.Yago.2C (CANTINA)\ControlesUsuario\obj\Debug\ControlesUsuario.Properties.Resources.resources
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Rodi.Yago.2C (CANTINA)\ControlesUsuario\obj\Debug\ControlesUsuario.csproj.GenerateResource.cache
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Rodi.Yago.2C (CANTINA)\ControlesUsuario\obj\Debug\ControlesUsuario.csproj.CoreCompileInputs.cache
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Rodi.Yago.2C (CANTINA)\ControlesUsuario\obj\Debug\ControlesUsuario.csproj.CopyComplete
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Rodi.Yago.2C (CANTINA)\ControlesUsuario\obj\Debug\ControlesUsuario.dll
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Rodi.Yago.2C (CANTINA)\ControlesUsuario\obj\Debug\ControlesUsuario.pdb

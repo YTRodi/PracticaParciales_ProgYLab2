@@ -87,7 +87,7 @@ namespace Entidades
 
             return sb.ToString();
 
-
+            
             //sb.AppendFormat("Porcentaje de contenido: {0:0#}% \n", this.PorcentajeContenido);
             //sb.AppendLine("Capacidad de mililitros: " + this.capacidadML);
             //sb.AppendLine("Capacidad de litros: " + this.CapacidadLitros);

@@ -1,0 +1,13 @@
+C:\Users\YAGO\Desktop\Solucion(Equipo, Jugadores, DT)\WinDT\bin\Debug\WinDT.exe.config
+C:\Users\YAGO\Desktop\Solucion(Equipo, Jugadores, DT)\WinDT\bin\Debug\WinDT.exe
+C:\Users\YAGO\Desktop\Solucion(Equipo, Jugadores, DT)\WinDT\bin\Debug\WinDT.pdb
+C:\Users\YAGO\Desktop\Solucion(Equipo, Jugadores, DT)\WinDT\bin\Debug\Entidades.dll
+C:\Users\YAGO\Desktop\Solucion(Equipo, Jugadores, DT)\WinDT\bin\Debug\Entidades.pdb
+C:\Users\YAGO\Desktop\Solucion(Equipo, Jugadores, DT)\WinDT\obj\Debug\WinDT.csprojAssemblyReference.cache
+C:\Users\YAGO\Desktop\Solucion(Equipo, Jugadores, DT)\WinDT\obj\Debug\WinDT.Properties.Resources.resources
+C:\Users\YAGO\Desktop\Solucion(Equipo, Jugadores, DT)\WinDT\obj\Debug\WinDT.csproj.GenerateResource.cache
+C:\Users\YAGO\Desktop\Solucion(Equipo, Jugadores, DT)\WinDT\obj\Debug\WinDT.csproj.CoreCompileInputs.cache
+C:\Users\YAGO\Desktop\Solucion(Equipo, Jugadores, DT)\WinDT\obj\Debug\WinDT.csproj.CopyComplete
+C:\Users\YAGO\Desktop\Solucion(Equipo, Jugadores, DT)\WinDT\obj\Debug\WinDT.exe
+C:\Users\YAGO\Desktop\Solucion(Equipo, Jugadores, DT)\WinDT\obj\Debug\WinDT.pdb
+C:\Users\YAGO\Desktop\Solucion(Equipo, Jugadores, DT)\WinDT\obj\Debug\WinDT.FormDt.resources

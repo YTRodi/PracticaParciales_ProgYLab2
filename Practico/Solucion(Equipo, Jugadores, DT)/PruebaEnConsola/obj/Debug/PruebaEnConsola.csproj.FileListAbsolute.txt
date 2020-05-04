@@ -1,0 +1,10 @@
+C:\Users\YAGO\Desktop\Solucion(Equipo, Jugadores, DT)\PruebaEnConsola\bin\Debug\PruebaEnConsola.exe.config
+C:\Users\YAGO\Desktop\Solucion(Equipo, Jugadores, DT)\PruebaEnConsola\bin\Debug\PruebaEnConsola.exe
+C:\Users\YAGO\Desktop\Solucion(Equipo, Jugadores, DT)\PruebaEnConsola\bin\Debug\PruebaEnConsola.pdb
+C:\Users\YAGO\Desktop\Solucion(Equipo, Jugadores, DT)\PruebaEnConsola\bin\Debug\Entidades.dll
+C:\Users\YAGO\Desktop\Solucion(Equipo, Jugadores, DT)\PruebaEnConsola\bin\Debug\Entidades.pdb
+C:\Users\YAGO\Desktop\Solucion(Equipo, Jugadores, DT)\PruebaEnConsola\obj\Debug\PruebaEnConsola.csprojAssemblyReference.cache
+C:\Users\YAGO\Desktop\Solucion(Equipo, Jugadores, DT)\PruebaEnConsola\obj\Debug\PruebaEnConsola.csproj.CoreCompileInputs.cache
+C:\Users\YAGO\Desktop\Solucion(Equipo, Jugadores, DT)\PruebaEnConsola\obj\Debug\PruebaEnConsola.csproj.CopyComplete
+C:\Users\YAGO\Desktop\Solucion(Equipo, Jugadores, DT)\PruebaEnConsola\obj\Debug\PruebaEnConsola.exe
+C:\Users\YAGO\Desktop\Solucion(Equipo, Jugadores, DT)\PruebaEnConsola\obj\Debug\PruebaEnConsola.pdb

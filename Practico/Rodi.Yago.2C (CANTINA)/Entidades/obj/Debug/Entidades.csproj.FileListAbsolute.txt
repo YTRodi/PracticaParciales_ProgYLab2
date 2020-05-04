@@ -1,0 +1,6 @@
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Rodi.Yago.2C (CANTINA)\Entidades\bin\Debug\Entidades.dll
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Rodi.Yago.2C (CANTINA)\Entidades\bin\Debug\Entidades.pdb
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Rodi.Yago.2C (CANTINA)\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Rodi.Yago.2C (CANTINA)\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Rodi.Yago.2C (CANTINA)\Entidades\obj\Debug\Entidades.dll
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Rodi.Yago.2C (CANTINA)\Entidades\obj\Debug\Entidades.pdb
