@@ -1,0 +1,6 @@
+C:\Users\YAGO\Desktop\SolucionPrestamosFinancieros\EntidadFinanciera\bin\Debug\EntidadFinanciera.dll
+C:\Users\YAGO\Desktop\SolucionPrestamosFinancieros\EntidadFinanciera\bin\Debug\EntidadFinanciera.pdb
+C:\Users\YAGO\Desktop\SolucionPrestamosFinancieros\EntidadFinanciera\obj\Debug\EntidadFinanciera.csprojAssemblyReference.cache
+C:\Users\YAGO\Desktop\SolucionPrestamosFinancieros\EntidadFinanciera\obj\Debug\EntidadFinanciera.csproj.CoreCompileInputs.cache
+C:\Users\YAGO\Desktop\SolucionPrestamosFinancieros\EntidadFinanciera\obj\Debug\EntidadFinanciera.dll
+C:\Users\YAGO\Desktop\SolucionPrestamosFinancieros\EntidadFinanciera\obj\Debug\EntidadFinanciera.pdb

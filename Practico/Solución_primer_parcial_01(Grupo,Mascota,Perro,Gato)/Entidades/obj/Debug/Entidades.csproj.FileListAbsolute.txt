@@ -1,0 +1,6 @@
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Solución_primer_parcial_01(Grupo,Mascota,Perro,Gato)\Entidades\bin\Debug\Entidades.dll
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Solución_primer_parcial_01(Grupo,Mascota,Perro,Gato)\Entidades\bin\Debug\Entidades.pdb
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Solución_primer_parcial_01(Grupo,Mascota,Perro,Gato)\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Solución_primer_parcial_01(Grupo,Mascota,Perro,Gato)\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Solución_primer_parcial_01(Grupo,Mascota,Perro,Gato)\Entidades\obj\Debug\Entidades.dll
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Solución_primer_parcial_01(Grupo,Mascota,Perro,Gato)\Entidades\obj\Debug\Entidades.pdb

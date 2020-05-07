@@ -1,0 +1,10 @@
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Solución_primer_parcial_01(Grupo,Mascota,Perro,Gato)\Rodi.Yago.2C\bin\Debug\Rodi.Yago.2C.exe.config
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Solución_primer_parcial_01(Grupo,Mascota,Perro,Gato)\Rodi.Yago.2C\bin\Debug\Rodi.Yago.2C.exe
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Solución_primer_parcial_01(Grupo,Mascota,Perro,Gato)\Rodi.Yago.2C\bin\Debug\Rodi.Yago.2C.pdb
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Solución_primer_parcial_01(Grupo,Mascota,Perro,Gato)\Rodi.Yago.2C\bin\Debug\Entidades.dll
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Solución_primer_parcial_01(Grupo,Mascota,Perro,Gato)\Rodi.Yago.2C\bin\Debug\Entidades.pdb
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Solución_primer_parcial_01(Grupo,Mascota,Perro,Gato)\Rodi.Yago.2C\obj\Debug\Rodi.Yago.2C.csprojAssemblyReference.cache
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Solución_primer_parcial_01(Grupo,Mascota,Perro,Gato)\Rodi.Yago.2C\obj\Debug\Rodi.Yago.2C.csproj.CoreCompileInputs.cache
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Solución_primer_parcial_01(Grupo,Mascota,Perro,Gato)\Rodi.Yago.2C\obj\Debug\Rodi.Yago.2C.csproj.CopyComplete
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Solución_primer_parcial_01(Grupo,Mascota,Perro,Gato)\Rodi.Yago.2C\obj\Debug\Rodi.Yago.2C.exe
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\Solución_primer_parcial_01(Grupo,Mascota,Perro,Gato)\Rodi.Yago.2C\obj\Debug\Rodi.Yago.2C.pdb
