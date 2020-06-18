@@ -1,0 +1,6 @@
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\SEGUNDO PARCIAL LAB 2\Software SP - 01\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\SEGUNDO PARCIAL LAB 2\Software SP - 01\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\SEGUNDO PARCIAL LAB 2\Software SP - 01\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\SEGUNDO PARCIAL LAB 2\Software SP - 01\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\SEGUNDO PARCIAL LAB 2\Software SP - 01\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\SEGUNDO PARCIAL LAB 2\Software SP - 01\Interfaces\obj\Debug\Interfaces.pdb

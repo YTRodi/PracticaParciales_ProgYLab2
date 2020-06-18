@@ -1,0 +1,17 @@
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\SEGUNDO PARCIAL LAB 2\Software SP - 01\WinForms\bin\Debug\WinForms.exe.config
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\SEGUNDO PARCIAL LAB 2\Software SP - 01\WinForms\bin\Debug\WinForms.exe
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\SEGUNDO PARCIAL LAB 2\Software SP - 01\WinForms\bin\Debug\WinForms.pdb
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\SEGUNDO PARCIAL LAB 2\Software SP - 01\WinForms\bin\Debug\Entidades.dll
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\SEGUNDO PARCIAL LAB 2\Software SP - 01\WinForms\bin\Debug\Excepciones.dll
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\SEGUNDO PARCIAL LAB 2\Software SP - 01\WinForms\bin\Debug\Interfaces.dll
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\SEGUNDO PARCIAL LAB 2\Software SP - 01\WinForms\bin\Debug\Entidades.pdb
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\SEGUNDO PARCIAL LAB 2\Software SP - 01\WinForms\bin\Debug\Excepciones.pdb
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\SEGUNDO PARCIAL LAB 2\Software SP - 01\WinForms\bin\Debug\Interfaces.pdb
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\SEGUNDO PARCIAL LAB 2\Software SP - 01\WinForms\obj\Debug\WinForms.csprojAssemblyReference.cache
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\SEGUNDO PARCIAL LAB 2\Software SP - 01\WinForms\obj\Debug\WinForms.FrmPrincipal.resources
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\SEGUNDO PARCIAL LAB 2\Software SP - 01\WinForms\obj\Debug\WinForms.Properties.Resources.resources
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\SEGUNDO PARCIAL LAB 2\Software SP - 01\WinForms\obj\Debug\WinForms.csproj.GenerateResource.cache
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\SEGUNDO PARCIAL LAB 2\Software SP - 01\WinForms\obj\Debug\WinForms.csproj.CoreCompileInputs.cache
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\SEGUNDO PARCIAL LAB 2\Software SP - 01\WinForms\obj\Debug\WinForms.csproj.CopyComplete
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\SEGUNDO PARCIAL LAB 2\Software SP - 01\WinForms\obj\Debug\WinForms.exe
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\SEGUNDO PARCIAL LAB 2\Software SP - 01\WinForms\obj\Debug\WinForms.pdb

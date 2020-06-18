@@ -1,0 +1,11 @@
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\SEGUNDO PARCIAL LAB 2\Software SP - 01\Entidades\bin\Debug\Entidades.dll
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\SEGUNDO PARCIAL LAB 2\Software SP - 01\Entidades\bin\Debug\Entidades.pdb
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\SEGUNDO PARCIAL LAB 2\Software SP - 01\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\SEGUNDO PARCIAL LAB 2\Software SP - 01\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\SEGUNDO PARCIAL LAB 2\Software SP - 01\Entidades\obj\Debug\Entidades.dll
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\SEGUNDO PARCIAL LAB 2\Software SP - 01\Entidades\obj\Debug\Entidades.pdb
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\SEGUNDO PARCIAL LAB 2\Software SP - 01\Entidades\bin\Debug\Excepciones.dll
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\SEGUNDO PARCIAL LAB 2\Software SP - 01\Entidades\bin\Debug\Interfaces.dll
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\SEGUNDO PARCIAL LAB 2\Software SP - 01\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\SEGUNDO PARCIAL LAB 2\Software SP - 01\Entidades\bin\Debug\Interfaces.pdb
+C:\Users\YAGO\Desktop\PracticaParciales_ProgYLab2\Practico\SEGUNDO PARCIAL LAB 2\Software SP - 01\Entidades\obj\Debug\Entidades.csproj.CopyComplete
